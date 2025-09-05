@@ -1,12 +1,22 @@
-# Hi, I'm Aditya 👋
+# Aditya Purnama — Android & Backend Developer (Kotlin/Java) 👋
 
-**Android & Backend Developer (Kotlin/Java)** — I ship clean mobile apps and the APIs behind them.
+I build mobile apps and backend services with a focus on clean architecture, performance, and a great developer experience.
 
-- 📱 Android: Kotlin, Coroutines/Flow, Retrofit/OkHttp, Room/SQLite, Hilt, Firebase
-- 🧰 Backend: Kotlin/Java, Micronaut/Spring, Netty, Hibernate/JPA, REST, JWT
-- 🗄️ Data & Infra: PostgreSQL/MySQL, Redis, Docker, Gradle, GitHub Action
-- 🔭 Learning: DSA & system design, pagination & caching patterns, performance tuning
-- 🤝 Open to collaborate on Android apps & backend APIs
-- 💼 Open to Android **or** Backend roles
-- 📬 [LinkedIn](https://www.linkedin.com/in/aditya-purnama-8657691a4/)
+## 🛠 Tech Stack
+**Android:** Kotlin · Coroutines/Flow · Retrofit/OkHttp · Room/SQLite · Hilt/Dagger · Firebase (Auth/Analytics/Crashlytics)  
+**Backend:** Kotlin/Java · Micronaut/Spring · Netty · Hibernate/JPA · REST · JWT  
+**Data & Infra:** PostgreSQL/MySQL · Redis · Docker · Gradle · Git/GitHub · GitHub Actions · Linux
 
+## 🚀 What I’m working on
+- Shipping Android features end-to-end (UI → data → network)
+- Building REST APIs (auth with JWT, pagination, validation) using Micronaut/Spring
+- Practicing DSA & system design; exploring Netty and caching strategies with Redis
+
+## 🤝 Collaboration
+Happy to collaborate on Android apps, backend services, and lightweight tools (productivity/fintech).
+
+## 💼 Opportunities
+Open to **Android Developer** and **Backend (Kotlin/Java)** roles.
+
+## 📬 Contact
+[LinkedIn](https://www.linkedin.com/in/aditya-purnama-8657691a4/)
